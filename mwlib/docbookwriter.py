@@ -55,7 +55,7 @@ version = "0.2"
 v0.1:
  * initial implementation
 v0.2: 
- * switched to content model validation on coinstruction time
+ * switched to content model validation on construction time
  * added mathml support
 
 """
